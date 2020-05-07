@@ -13,6 +13,6 @@ class Detail extends React.Component {
             } else {
             return null;
             }
-            }   
+        }   
    }
    export default Detail;

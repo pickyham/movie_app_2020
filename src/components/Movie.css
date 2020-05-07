@@ -1,3 +1,7 @@
+a:link { color: blue; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: purple;  text-decoration: none;}
+
 .movies .movie {
     display: grid;
     grid-template-columns: minmax(150px, 1fr) 2fr;
